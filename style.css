@@ -1,0 +1,26 @@
+/*
+Theme Name: Julia Child
+Theme URI: https://pixelgrade.com/demos/julia/
+Author: Pixelgrade
+Author URI: https://pixelgrade.com/
+Description: A dynamic grid-based layout inspired and shaped by your content diversity.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: julia
+Tags: light, white, one-column, two-columns, three-columns, site-logo, theme-options, threaded-comments, translation-ready, blog, adaptive
+Template: julia
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Julia is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+
+/* ADD YOUR NEW CSS RULES HERE */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: hive' line. */
